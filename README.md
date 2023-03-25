@@ -1,11 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is 稚
 =========================================================================================================================
 
-一个大学生
-------------
 
-* 🌍  I'm based in china
-* ✉️  You can contact me at [2663221849@qq.com](mailto:2663221849@qq.com)
+* 🌍  中国
+* ✉️  邮箱 [2663221849@qq.com](mailto:2663221849@qq.com)
 * 🚀  我的网站➡️[这里](http://azhezhezhe.com)
 * ⚡  又菜又爱玩🎮 ctrl+c 、ctrl + v 高级CV工程师🏆
 
@@ -29,9 +27,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/aboyzy"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=aboyzy&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=aboyzy&show_icons=true&theme=radical&count_private=true&hide=prs,contribs)
 
 <b>Top Repositories</b>
 
