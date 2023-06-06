@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  中国
 * ✉️  邮箱 [2663221849@qq.com](mailto:2663221849@qq.com)
-* 🚀  我的网站➡️[这里](http://azhezhezhe.com)
+* 🚀  我的网站➡️[这里](https://www.aboyzy.top)
 * ⚡  又菜又爱玩🎮 ctrl+c 、ctrl + v 高级CV工程师🏆
 
 ### Skills
