@@ -1,11 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is 稚
+Hi My name is zhi
 =========================================================================================================================
 
 
 * 🌍  中国
-* ✉️  邮箱 [2663221849@qq.com](mailto:2663221849@qq.com)
 * 🚀  我的网站➡️[这里](https://www.aboyzy.top)
 * ⚡  又菜又爱玩🎮 ctrl+c 、ctrl + v 高级CV工程师🏆
+### Socials
+
+![Static Badge](https://img.shields.io/badge/mail-zhi%40aboyzy.top-5e6ae9?logo=maildotcom&link=mailto%3Azhi%40aboyzy.top)
+![Static Badge](https://img.shields.io/badge/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90-%E5%B0%8F%E9%82%B9%E5%B0%8F%E9%82%B9%E4%B8%8D%E8%A6%81%E6%85%8C-e60026?logo=applemusic&link=https%3A%2F%2Fmusic.163.com%2Fuser%2Fhome%3Fid%3D364216466)
+![Static Badge](https://img.shields.io/badge/Github-aboyzy-f2f2f2?logo=github&link=https%3A%2F%2Fgithub.com%2Faboyzy)
 
 ### Skills
 
@@ -20,10 +24,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
 </p>
 
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/aboyzy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
