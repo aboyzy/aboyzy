@@ -24,7 +24,8 @@
 #  💕 Hello
 
 <table>
-<tr><td>
+
+<img width="200%" src="https://jsd.cdn.zzko.cn/gh/aboyzy/pic_tuchuang@main/img/hr.6a071psxehs0.gif" />
 
 ### 🤩 About Me
 
@@ -35,9 +36,10 @@
 <p>&emsp;&emsp;但是我希望我永远快乐所以就给自己叫做稚,因为小孩子总是快乐无限</p>
 <p>&emsp;&emsp;热爱计算机科学和IT互联网事业,总喜欢自己鼓捣写小玩意</p>
 
-</td></tr>
-
 </table>
+<img width="200%" src="https://jsd.cdn.zzko.cn/gh/aboyzy/pic_tuchuang@main/img/hr.6a071psxehs0.gif" />
+
+
 <div align="center" >
 <img src="https://jsd.cdn.zzko.cn/gh/aboyzy/pic_tuchuang@main/img/juzhong.40fpc36dfbe0.webp" alt="Man Lifting Weights" width="250" height="250" />
 
@@ -69,14 +71,12 @@
 
 <img src="https://jsd.cdn.zzko.cn/gh/aboyzy/pic_tuchuang@main/img/biancheng.534rt5wsy0s0.webp" /></div>
 
-<img src="https://cdn.jsdelivr.net/gh/aboyzy/Github-Stats-Terminal/github_stats.svg"/><br>
+<div align="center" > <img src="https://cdn.jsdelivr.net/gh/aboyzy/Github-Stats-Terminal/github_stats.svg"/><br> </div>
 
 <table align="center">
   <tr>
     <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=aboyzy&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
   </tr>
 </table>
-
-
 
 </div>
