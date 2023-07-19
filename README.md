@@ -1,34 +1,82 @@
-Hi My name is zhi
-=========================================================================================================================
+<div align="center"> 
+<div align="center"> 
+    <a href="javascript:;">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=435&pause=1000&center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&repeat=%E7%9C%9F%E7%9A%84&width=435&lines=console.log(hello);My+name+is+zouying+&center=true&size=27" alt="Typing SVG" />
+    </a>
+</div>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://jsd.cdn.zzko.cn/gh/aboyzy/aboyzy@output/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://jsd.cdn.zzko.cn/gh/aboyzy/aboyzy@output/profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+<div align="center">
+  <a href="https://www.aboyzy.top"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-aboyzy.top-5157cd?logo=aboutdotme&logoColor=%23A5CD39
+" /></a>&emsp;
+  <a href="mailto:zhi@aboyzy.top"><img src="https://img.shields.io/badge/mail-zhi%40aboyzy.top-blue?logo=maildotcom" /></a>&emsp;
+  <a href="https://music.163.com/#/user/home?id=364216466"><img src="https://img.shields.io/badge/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90-%E5%B0%8F%E9%82%B9%E5%B0%8F%E9%82%B9%E4%B8%8D%E8%A6%81%E6%85%8C-e60026?logo=applemusic" /></a>&emsp;
+<img src="https://komarev.com/ghpvc/?username=aboyzy&label=Views&color=blueviolet&style=flat" alt="访问量统计" />
+
+</div>
+</div>
+
+#  💕 Hello
+
+<table>
+<tr><td>
+
+### 🤩 About Me
+
+<img align="right" width="88" src="https://npm.elemecdn.com/aboyzy_blogstatic/img/%E5%A4%B4%E5%83%8F.webp" />
+
+<p>&emsp;&emsp;大家好，我是稚。</p>
+<p>&emsp;&emsp;我的真实名字叫邹滢</p>
+<p>&emsp;&emsp;但是我希望我永远快乐所以就给自己叫做稚,因为小孩子总是快乐无限</p>
+<p>&emsp;&emsp;热爱计算机科学和IT互联网事业,总喜欢自己鼓捣写小玩意</p>
+
+</td></tr>
+
+</table>
+<div align="center" >
+<img src="https://jsd.cdn.zzko.cn/gh/aboyzy/pic_tuchuang@main/img/juzhong.40fpc36dfbe0.webp" alt="Man Lifting Weights" width="250" height="250" />
+
+💪 已经学习过
+
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
+![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
+![Spring Badge](https://img.shields.io/badge/JAVA-f2f3f3?logo=spring&logoColor=fff&style=flat)
+
+🧠 计划接着学习
+
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
+![HUa Wei](https://img.shields.io/badge/HCIP-FF0000?logo=huawei&logoColor=fff&style=flat)
+![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
+![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat)
+
+🧰 常用的工具
+
+![ROG Badge](https://img.shields.io/badge/ROG-27272A?logo=republicofgamers&logoColor=FF0029&style=flat)
+![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
+![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
+![IDEA Badge](https://img.shields.io/badge/IDEA-ffffff?logo=intellijidea&logoColor=000&style=flat)
+![Pycharm Badge](https://img.shields.io/badge/Pycharm-ffffff?logo=pycharm&logoColor=000&style=flat)
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
+
+<img src="https://skillicons.dev/icons?i=azure,cloudflare,git,github,vercel,powershell,docker" /><br>
+
+<img src="https://jsd.cdn.zzko.cn/gh/aboyzy/pic_tuchuang@main/img/biancheng.534rt5wsy0s0.webp" /></div>
+
+<img src="https://cdn.jsdelivr.net/gh/aboyzy/Github-Stats-Terminal/github_stats.svg"/><br>
+
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=aboyzy&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
+  </tr>
+</table>
 
 
-* 🌍  中国
-* 🚀  我的网站➡️[这里](https://www.aboyzy.top)
-* ⚡  又菜又爱玩🎮 ctrl+c 、ctrl + v 高级CV工程师🏆
-### Socials
 
-![Static Badge](https://img.shields.io/badge/mail-zhi%40aboyzy.top-5e6ae9?logo=maildotcom&link=mailto%3Azhi%40aboyzy.top)
-![Static Badge](https://img.shields.io/badge/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90-%E5%B0%8F%E9%82%B9%E5%B0%8F%E9%82%B9%E4%B8%8D%E8%A6%81%E6%85%8C-e60026?logo=applemusic&link=https%3A%2F%2Fmusic.163.com%2Fuser%2Fhome%3Fid%3D364216466)
-![Static Badge](https://img.shields.io/badge/Github-aboyzy-f2f2f2?logo=github&link=https%3A%2F%2Fgithub.com%2Faboyzy)
-
-### Skills
-
-
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
-</p>
-
-
-### Badges
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=aboyzy&show_icons=true&theme=radical&count_private=true&hide=prs,contribs)
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/aboyzy/aboyzy.github.io" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aboyzy&repo=aboyzy.github.io&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+</div>
