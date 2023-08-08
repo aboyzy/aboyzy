@@ -32,8 +32,7 @@
 <img align="right" width="88" src="https://npm.elemecdn.com/aboyzy_blogstatic/img/%E5%A4%B4%E5%83%8F.webp" />
 
 <p>&emsp;&emsp;大家好，我是稚。</p>
-<p>&emsp;&emsp;我的真实名字叫邹滢</p>
-<p>&emsp;&emsp;但是我希望我永远快乐所以就给自己叫做稚,因为小孩子总是快乐无限</p>
+<p>&emsp;&emsp;我希望我永远快乐所以就给自己叫做稚,因为小孩子总是快乐无限</p>
 <p>&emsp;&emsp;热爱计算机科学和IT互联网事业,总喜欢自己鼓捣写小玩意</p>
 
 </table>
