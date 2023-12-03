@@ -40,10 +40,11 @@
 
 
 <div align="center" >
-<img src="https://jsd.cdn.zzko.cn/gh/aboyzy/pic_tuchuang@main/img/juzhong.40fpc36dfbe0.webp" alt="Man Lifting Weights" width="250" height="250" />
+<img src="https://gcore.jsdelivr.net/gh/aboyzy/pic_tuchuang@main/img/juzhong.40fpc36dfbe0.webp" alt="Man Lifting Weights" width="250" height="250" />
 
 💪 已经学习过
 
+![HUa Wei](https://img.shields.io/badge/HCIP-FF0000?logo=huawei&logoColor=fff&style=flat)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
@@ -53,7 +54,7 @@
 🧠 计划接着学习
 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
-![HUa Wei](https://img.shields.io/badge/HCIP-FF0000?logo=huawei&logoColor=fff&style=flat)
+![HUa Wei](https://img.shields.io/badge/HCIE-FF0000?logo=huawei&logoColor=fff&style=flat)
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
 ![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat)
 
@@ -65,10 +66,11 @@
 ![IDEA Badge](https://img.shields.io/badge/IDEA-ffffff?logo=intellijidea&logoColor=000&style=flat)
 ![Pycharm Badge](https://img.shields.io/badge/Pycharm-ffffff?logo=pycharm&logoColor=000&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
+![HUa Wei](https://img.shields.io/badge/ENSP-3776AB?logo=huawei&logoColor=fff&style=flat)
 
 <img src="https://skillicons.dev/icons?i=azure,cloudflare,git,github,vercel,powershell,docker" /><br>
 
-<img src="https://jsd.cdn.zzko.cn/gh/aboyzy/pic_tuchuang@main/img/biancheng.534rt5wsy0s0.webp" /></div>
+</div>
 
 <div align="center" > <img src="https://cdn.jsdelivr.net/gh/aboyzy/Github-Stats-Terminal/github_stats.svg"/><br> </div>
 
